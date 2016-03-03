@@ -1,0 +1,47 @@
+Android開発　備忘録
+
+
+■Android Studioで APK ファイルを作成する
+http://androidstudio.hatenablog.com/entry/2014/07/26/154043
+
+■Android Studioでアプリ公開用KeyStoreを作成して本番ビルドする
+http://qiita.com/konifar/items/6c6b73deae9085a69666
+
+■Android Lollipopでapkがインストールできない問題
+http://qiita.com/orangain/items/a70f5b774296e609fb75
+
+■Build Variants によって別バージョンの Android アプリを同じプロジェクトからビルドする (Gradle 使用)
+http://vividcode.hatenablog.com/entry/android-app/build-variants
+
+■Android Studio の Release ビルド設定
+http://ohwhsmm7.blog28.fc2.com/blog-entry-435.html
+
+■AndroidStudioでNDK(JNI)を活用する 準備編
+http://qiita.com/m1takahashi/items/3a3c9d2845e9b57aeda3
+
+■apkファイルをAndroid端末（実機）にインストールする方法
+http://phpjavascriptroom.com/?t=mobile&p=android_apk_install
+
+■Android実機で開発中のアプリを実行する方法
+http://saku-java.be-ourselves.jp/2014/03/19/mac-android-studio-run-on-real-machine/
+
+■開発したアプリを実機でテストしたい
+http://androidstudio.hatenablog.com/entry/2014/07/21/143425
+
+■Androidアプリ開発に必須！ Android Studioの環境構築方法【初心者必見！】
+https://blog.codecamp.jp/androidstudio_setup
+
+■Android 開発者登録するには
+http://www.adakoda.com/android/000100.html
+
+■Android StudioをMacにインストールする
+https://akira-watson.com/android/adt-mac.html
+
+
+
+
+
+
+
+
+
